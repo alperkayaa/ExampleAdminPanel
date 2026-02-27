@@ -50,6 +50,9 @@ Slider içerik yönetimi
 
 Alper Kaya
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🛠️ Admin Panel
 
 This project is an Admin Panel interface designed to simplify management operations. It features a modern, clean, and user-friendly design.
